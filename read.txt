@@ -1,0 +1,8 @@
+This is my java code.
+
+echo # JAVA-Code-Part >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:zhousenbiao/JAVA-Code-Part.git
+git push -u origin master
